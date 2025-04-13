@@ -17,7 +17,7 @@ The project is suitable for beginners and serves as a solid introduction to SQL,
 
 ---
 
-*### 🗃ER Diagram Overview*
+*### ER  Overview*
 
 The database consists of the following key entities:
 - **Customer**: Stores client info
